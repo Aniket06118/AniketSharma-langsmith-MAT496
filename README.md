@@ -1,10 +1,10 @@
-## module 0
+## Module 0
  - we did the basic setup required
  - made a simple RAG application using groq api
   
     ---
    
-## module 1 
+## Module 1  
 1. **Introduction**
    - in this module we will be learning how to implement tracing in a basic LLM
    - tracing helps in dealing with unexpected outputs while building an LLM app
@@ -35,5 +35,14 @@
    - You can create threads by adding a UUID as a key–value pair in the metadata using the langsmith_extra field.
    - This approach provides better context and organization for analyzing multi-step LLM interactions.
 
-     
+     ---
+
+     ## Module 2
+ 1. **Lesson 1**
+    - Learned that datasets are structured lists of examples used to test and evaluate LLM applications instead of relying on random checks.
+    - Created datasets containing both inputs and outputs, and learned to tag dataset versions for testing across different app versions.
+    - Learned to add new data manually or directly from trace runs.
+    - Understood the role of schema in maintaining consistent data formatting and explored adding AI-generated examples.
+    - Discovered how to split, share, download, or clone datasets for effective collaboration and evaluation
+    
     
