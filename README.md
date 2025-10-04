@@ -50,6 +50,11 @@
    - They can be defined and run in Jupyter notebooks or directly in the LangSmith web interface
    - Learned that custom evaluators can be created using your own code for specific evaluation needs.
    - LLMs themselves can also be used as evaluators, acting as “judges” to assess the quality of responses.
-  
+3. **Lesson 3**
+   - Learned that experiments involve running an LLM application over a dataset and evaluating its performance using evaluators.
+   -Experiments can be executed via the SDK (evaluate()) or directly in the LangSmith UI
+    -Understood the importance of analyzing the impact of changing the LLM model on performance.
+    -Learned how to run experiments on specific subsets of examples, including dataset versions, splits, or individual examples.
+    -Experiments can be customized with parameters like repetitions, concurrent threads, and metadata to ensure consistent and detailed evaluation.
     
     
