@@ -44,5 +44,12 @@
     - Learned to add new data manually or directly from trace runs.
     - Understood the role of schema in maintaining consistent data formatting and explored adding AI-generated examples.
     - Discovered how to split, share, download, or clone datasets for effective collaboration and evaluation
+2. **Lesson 2**
+   - Learned that evaluators are functions or processes used to measure and score the performance of an LLM application.
+   - Evaluators compare the model’s output with the dataset examples to assign a performance score.
+   - They can be defined and run in Jupyter notebooks or directly in the LangSmith web interface
+   - Learned that custom evaluators can be created using your own code for specific evaluation needs.
+   - LLMs themselves can also be used as evaluators, acting as “judges” to assess the quality of responses.
+  
     
     
