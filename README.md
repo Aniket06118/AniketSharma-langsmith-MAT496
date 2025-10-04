@@ -5,7 +5,7 @@
     ---
    
 ## module 1 
-1. **introduction**
+1. **Introduction**
    - in this module we will be learning how to implement tracing in a basic LLM
    - tracing helps in dealing with unexpected outputs while building an LLM app
    - it helps us track how each part of our application is contributing to the output
