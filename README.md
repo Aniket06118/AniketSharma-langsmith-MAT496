@@ -22,6 +22,12 @@
    - Streaming outputs can be converted to the same format as non-streaming outputs
    - Retriever traces log documents retrieved from databases or indexes and need run_type="retriever" with page_content, type, and metadata
    - LangSmith provides custom rendering for LLM, retriever, and tool calls to help visualize and debug executions
+4. **Lesson 3**
+   - Learned that @traceable decorator is the default way to enable tracing in LangSmith.
+   - Understood that different nodes in a graph use LangChain components, and metadata can be passed using the config argument in invoke().
+   - Tracing occurs automatically once environment variables are set up for LangChain and LangGraph
+   - The with trace() block allows logging of specific code sections for detailed tracing control.
+   - Learned that wrap_openai() enables tracing for all OpenAI SDK calls, and metadata can be added using the langsmith_extra field.
 
      
     
