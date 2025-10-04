@@ -28,6 +28,12 @@
    - Tracing occurs automatically once environment variables are set up for LangChain and LangGraph
    - The with trace() block allows logging of specific code sections for detailed tracing control.
    - Learned that wrap_openai() enables tracing for all OpenAI SDK calls, and metadata can be added using the langsmith_extra field.
+5. **Lesson 4**
+   - Learned about threads, which are abstractions that group multiple traces together.
+   - Each trace represents a single invocation or call within the application.
+   - Threads help in tracking and debugging an entire interaction flow between a human and an LLM app.
+   - You can create threads by adding a UUID as a key–value pair in the metadata using the langsmith_extra field.
+   - This approach provides better context and organization for analyzing multi-step LLM interactions.
 
      
     
