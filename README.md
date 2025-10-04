@@ -16,7 +16,7 @@
    - traceable streams the name of the function and the inputs to langmith each time the function is called .
    - When a function returns or throws an error, its output or error is  added as an update to the trace.
    - Adding metadata to a function allows you to store additional information about the function's execution, such as tags or version info
- 3. **Lesson 2**
+3. **Lesson 2**
    - LangSmith supports multiple run types in @traceable: LLM, Retriever, Tool, Chain, Prompt, Parser
    - LLM traces require inputs and outputs in specific formats and can include metadata like ls_provider and ls_model_name
    - Streaming outputs can be converted to the same format as non-streaming outputs
