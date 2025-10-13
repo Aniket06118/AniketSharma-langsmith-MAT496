@@ -71,4 +71,9 @@
    - Experimented with different models and parameters in the Playground to compare their responses and performance.
    - Learned about output schemas, which enforce a specific structure for model outputs, and discovered that tools can also be used for similar purposes.
    - Found that the Playground enables testing datasets directly, making it easier to evaluate prompt behavior and output quality.
+     **tweaking**
+     - compared different models on the same promt in the langsmith playground.
+     - created a custom dataset and ran experiments on it inside the langsmith playground.
+     
+
     
