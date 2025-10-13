@@ -84,6 +84,13 @@
      **tweakings**
      - created a promt as "you are a 18 year old student " and asked questions like how to clear an exam in english language
      - updated the same promt to you are a teacher and asked questions like how to make a student clear an exam in english language
-   
+4. **Lesson 3**
+   - Learned how to use the LangSmith Playground and Prompt Hub together to iterate and refine prompts within an application.
+   - Understood how to perform end-to-end prompt optimization, testing and improving prompts directly through the interface.
+   - Discovered that edits and commits made in LangSmith automatically reflect in the application’s code.
+   - Realized that this removes the need to manually update the code every time a prompt is modified
+   - Found this workflow extremely efficient and powerful for maintaining and improving prompt performance seamlessly.
+     **tweakings**
+     - 
 
     
