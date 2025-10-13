@@ -72,7 +72,8 @@
    - Learned about output schemas, which enforce a specific structure for model outputs, and discovered that tools can also be used for similar purposes.
    - Found that the Playground enables testing datasets directly, making it easier to evaluate prompt behavior and output quality.
      **tweaking**
-     - compared different models on the same promt in the langsmith playground.
+     - got the output for a promt inside the langsmith playground with the gpt 4o mini model.
+     - tried comparing different models on the same promt in the langsmith playground , but couldnt find any  model's API key for free.
      - created a custom dataset and ran experiments on it inside the langsmith playground.
      
 
