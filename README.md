@@ -71,6 +71,7 @@
    - Experimented with different models and parameters in the Playground to compare their responses and performance.
    - Learned about output schemas, which enforce a specific structure for model outputs, and discovered that tools can also be used for similar purposes.
    - Found that the Playground enables testing datasets directly, making it easier to evaluate prompt behavior and output quality.
+     
      **tweaking**
      - got the output for a promt inside the langsmith playground with the gpt 4o mini model.
      - tried comparing different models on the same promt in the langsmith playground , but couldnt find any  model's API key for free.
@@ -81,6 +82,7 @@
    - Found that these messages are dynamic templates, not static strings — they can include variables filled in at runtime
    - Discovered that a prompt template includes the templated messages, model configuration, and optionally an output schema.
    - Recognized how the Prompt Hub helps maintain organized, reusable, and adaptable prompts for different use cases.
+     
      **tweakings**
      - created a promt as "you are a 18 year old student " and asked questions like how to clear an exam in english language
      - updated the same promt to you are a teacher and asked questions like how to make a student clear an exam in english language
