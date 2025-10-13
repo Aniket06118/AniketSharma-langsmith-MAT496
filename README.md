@@ -96,6 +96,15 @@
      **tweakings**
      - created a new promt which asks the LLM to answer in the shortest way possible.
      - tested it on the same dataset as I found creating a new dataset hard as the rag application only answerd questions based on the langsmith document , therefore I tested my new promt on the same dataset.
+    
+5. **Lesson 4**
+   - Prompt Canvas uses an LLM to help write, update, and improve existing prompts.
+   - The interface provides a chatbox for interacting with the LLM to refine prompts.
+   - Users can ask the LLM to modify only specific parts of a prompt.
+   - Quick actions can be created (e.g., correcting grammar, formatting examples) to standardize prompt output.
+   - Custom actions are named and given instructions for the LLM; they can be shared and used across the workspace to standardize prompts organization-wide.
+    
+  
      
 
     
