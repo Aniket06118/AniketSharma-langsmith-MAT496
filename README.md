@@ -56,5 +56,13 @@
     - Understood the importance of analyzing the impact of changing the LLM model on performance.
     - Learned how to run experiments on specific subsets of examples, including dataset versions, splits, or individual examples.
     - Experiments can be customized with parameters like repetitions, concurrent threads, and metadata to ensure consistent and detailed 
-    
+
+    ---
+
+   ## Module 3
+1. **Introduction**
+   - quality of a promt directly affects the LLM's output.
+   - with the right promts we can ensure out app delivers accurate and reliable responses
+   - Langsmith's playground environment helps us in experimenting with different promts and models on various inputs.
+   - promt hub is usefull for saving , organizing and versioning your promts over time.
     
