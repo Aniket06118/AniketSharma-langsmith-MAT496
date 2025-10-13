@@ -65,4 +65,10 @@
    - with the right promts we can ensure out app delivers accurate and reliable responses
    - Langsmith's playground environment helps us in experimenting with different promts and models on various inputs.
    - promt hub is usefull for saving , organizing and versioning your promts over time.
+2. **Lesson 1**
+   - Understood the difference between hardcoded prompts and prompt templates, where templates provide greater flexibility by allowing variable inputs.
+   - Explored the LangSmith Playground and observed how modifying the system prompt can significantly influence the model’s output.
+   - Experimented with different models and parameters in the Playground to compare their responses and performance.
+   - Learned about output schemas, which enforce a specific structure for model outputs, and discovered that tools can also be used for similar purposes.
+   - Found that the Playground enables testing datasets directly, making it easier to evaluate prompt behavior and output quality.
     
