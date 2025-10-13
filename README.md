@@ -91,6 +91,8 @@
    - Realized that this removes the need to manually update the code every time a prompt is modified
    - Found this workflow extremely efficient and powerful for maintaining and improving prompt performance seamlessly.
      **tweakings**
-     - 
+     - created a new promt which asks the LLM to answer in the shortest way possible.
+     - tested it on the same dataset as I found creating a new dataset hard as the rag application only answerd questions based on the langsmith document , therefore I tested my new promt on the same dataset.
+     
 
     
