@@ -75,6 +75,11 @@
      - got the output for a promt inside the langsmith playground with the gpt 4o mini model.
      - tried comparing different models on the same promt in the langsmith playground , but couldnt find any  model's API key for free.
      - created a custom dataset and ran experiments on it inside the langsmith playground.
-     
+3. **Lesson 3**
+   - Learned about LangSmith’s Prompt Hub, a centralized place to store and manage prompt templates.
+   - Understood that each template consists of a list of messages, which can be either system or human messages.
+   - Found that these messages are dynamic templates, not static strings — they can include variables filled in at runtime
+   - Discovered that a prompt template includes the templated messages, model configuration, and optionally an output schema.
+   - Recognized how the Prompt Hub helps maintain organized, reusable, and adaptable prompts for different use cases.
 
     
