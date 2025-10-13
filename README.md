@@ -81,5 +81,9 @@
    - Found that these messages are dynamic templates, not static strings — they can include variables filled in at runtime
    - Discovered that a prompt template includes the templated messages, model configuration, and optionally an output schema.
    - Recognized how the Prompt Hub helps maintain organized, reusable, and adaptable prompts for different use cases.
+     **tweakings**
+     - created a promt as "you are a 18 year old student " and asked questions like how to clear an exam in english language
+     - updated the same promt to you are a teacher and asked questions like how to make a student clear an exam in english language
+   
 
     
